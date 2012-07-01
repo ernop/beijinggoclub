@@ -175,7 +175,6 @@ a:hover {
 }
 
 .row {
-  margin-left: -20px;
   *zoom: 1;
 }
 
@@ -4981,3 +4980,5 @@ a.badge:hover {
 .invisible {
   visibility: hidden;
 }
+
+.container{margin-left:200px}
