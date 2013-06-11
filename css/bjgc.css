@@ -4,6 +4,25 @@ body{font:normal medium 'Gill Sans','Gill Sans MT','Ikarius ADF','Candara','Jara
 
 h1 {font-size:55px; margin-top:0;}
 
+h2{
+display:inline-block;
+padding:5px;
+border-radius:9px;
+border:3px solid black;
+box-shadow:3px 4px 2px orange;
+margin:3px;
+margin-top:7px;
+}
+
+div h2{margin-top:8px;margin-right:4px;margin-bottom:3px;
+font-size:2.8em;
+background-color:lightblue;
+margin-right:20px;
+float:left;
+margin-bottom:22px;
+margin-top:10px;
+}
+
 #tablehead
 {
   background-color:#CC5555;
